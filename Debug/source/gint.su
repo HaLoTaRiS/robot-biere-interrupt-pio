@@ -1,0 +1,4 @@
+C:\Users\Baptiste\Documents\ENSEA\3D\S10_011_Projet\IDE\lpcxpresso55s69_gint\drivers/fsl_power.h:398:20:POWER_SetBodVbatLevel	16	static
+../source/gint.c:74:6:callback_interrupt_sw203	8	static
+../source/gint.c:81:6:callback_interrupt_sw202	8	static
+../source/gint.c:88:5:main	8	static
